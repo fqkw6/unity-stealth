@@ -1,0 +1,12 @@
+D:\_DATA\_GOOGLE_DRIVE\Unity\STEALTH\Temp\bin\Debug\Assembly-CSharp.dll
+D:\_DATA\_GOOGLE_DRIVE\Unity\STEALTH\Temp\bin\Debug\Assembly-CSharp.pdb
+D:\_DATA\_GOOGLE_DRIVE\Unity\STEALTH\Temp\bin\Debug\UnityEditor.dll
+D:\_DATA\_GOOGLE_DRIVE\Unity\STEALTH\Temp\bin\Debug\UnityEngine.dll
+D:\_DATA\_GOOGLE_DRIVE\Unity\STEALTH\Temp\bin\Debug\UnityEngine.UI.dll
+D:\_DATA\_GOOGLE_DRIVE\Unity\STEALTH\Temp\bin\Debug\Mono.Cecil.dll
+D:\_DATA\_GOOGLE_DRIVE\Unity\STEALTH\Temp\bin\Debug\nunit.framework.dll
+D:\_DATA\_GOOGLE_DRIVE\Unity\STEALTH\Temp\bin\Debug\Unity.DataContract.dll
+D:\_DATA\_GOOGLE_DRIVE\Unity\STEALTH\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+D:\_DATA\_GOOGLE_DRIVE\Unity\STEALTH\obj\Debug\Assembly-CSharp-vs.csprojResolveAssemblyReference.cache
+D:\_DATA\_GOOGLE_DRIVE\Unity\STEALTH\obj\Debug\Assembly-CSharp.dll
+D:\_DATA\_GOOGLE_DRIVE\Unity\STEALTH\obj\Debug\Assembly-CSharp.pdb
