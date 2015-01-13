@@ -1,5 +1,4 @@
 ﻿using UnityEngine;
-using System.Collections;
 
 public class LaserBlinking : MonoBehaviour {
 
@@ -10,10 +9,14 @@ public class LaserBlinking : MonoBehaviour {
     void Update()
     {
         timer += Time.deltaTime;
-        if ( (renderer.enabled && timer >= onTime) || (!renderer.enabled && timer >= offTime) )
-        {
+        if (renderer.enabled && timer >= onTime)
+            // Switch the beam.
             SwitchBeam();
-        }
+
+        // If the beam is off and the offTime has been reached...
+        if (!renderer.enabled && timer >= offTime)
+            // Switch the beam.
+            SwitchBeam();
 
     }
 
