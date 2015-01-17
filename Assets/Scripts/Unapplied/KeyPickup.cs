@@ -18,7 +18,6 @@ public class KeyPickup : MonoBehaviour {
         if (other.gameObject == player)
         {
             AudioSource.PlayClipAtPoint(pickClip, transform.position);
-            Debug.Log("on play");
             playerInventory.hasKey = true;
             Destroy(gameObject);
         }

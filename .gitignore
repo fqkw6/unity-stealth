@@ -24,6 +24,7 @@ sysinfo.txt
 # OS generated #
 # ============ #
 .DS_Store*
+.consulo*
 ._*
 .Spotlight-V100
 .Trashes
