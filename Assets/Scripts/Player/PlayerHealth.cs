@@ -44,7 +44,7 @@ public class PlayerHealth : MonoBehaviour {
     {
         playerDead = true;
         anim.SetBool(hash.deadBool, true);
-        //AudioSource.PlayClipAtPoint(deathClip, transform.position);
+        AudioSource.PlayClipAtPoint(deathClip, transform.position);
     }
 
     void PlayerDead()

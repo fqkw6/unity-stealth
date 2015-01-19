@@ -44,7 +44,7 @@ public class EnemyShooting : MonoBehaviour {
         if (shot < 0.5f)
         {
             shooting = false;
-            laserShotLight.enabled = false;
+            laserShotLine.enabled = false;
         }
         laserShotLight.intensity = Mathf.Lerp(laserShotLight.intensity, 0f, fadeSpeed*Time.deltaTime);
 
